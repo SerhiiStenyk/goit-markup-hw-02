@@ -130,6 +130,7 @@ body {
 }
 .footer-address {
   /* color: var(--white-color); */
+  font-style: normal;
 }
 .footer-contacts-item {
   /* color: rgba(255, 255, 255, 0.6); */

@@ -344,9 +344,6 @@ template {
 [hidden] {
   display: none;
 }
-address {
-  font-style: normal;
-}
 a {
   background-color: transparent;
   text-decoration: none;
